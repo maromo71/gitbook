@@ -39,5 +39,7 @@ function calcularDobro($x) : float
 }
 ```
 
+Outra novidade é o operador spaceship \(&lt;=&gt;\) que como em outras linguagens é utilizado para comparação numérica. Na prática o operador &lt;=&gt; retorna um dos 03 valores possíveis:
+
 
 
