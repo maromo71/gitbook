@@ -16,7 +16,7 @@ Uma entre as várias modificações realizadas é que PHP 7 pemite definir um ti
 
 Sintaxa anterior a versão 7:
 
-```
+```php
 function nomeDaFuncao()
 {
     // corpo da função
@@ -25,7 +25,7 @@ function nomeDaFuncao()
 
 Sintaxe atual:
 
-```
+```php
 function nomeDaFuncao() : tipo
 {
     // corpo da função
@@ -34,7 +34,7 @@ function nomeDaFuncao() : tipo
 
 Ou seja,
 
-```
+```php
 function calcularDobro($x) : float
 {
     return $x * 2;
@@ -72,12 +72,12 @@ O que distingue o PHP de Javascript é que enquanto nesse últimos os scripts s�
 
 ## PHP e Banco de Dados
 
-Construir uma página dinâmica baseada em bases de dados é simples com PHP, este provê suporte a um grande número de bases de dados:   
-Oracle,   
-Sybase,   
-PostgreSQL,   
-InterBase,   
-MySQL,   
-SQLite,   
+Construir uma página dinâmica baseada em bases de dados é simples com PHP, este provê suporte a um grande número de bases de dados:  
+Oracle,  
+Sybase,  
+PostgreSQL,  
+InterBase,  
+MySQL,  
+SQLite,  
 MSSQL etc, podendo abstrair o banco com a biblioteca ADOdb, entre outras.
 
