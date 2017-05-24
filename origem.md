@@ -68,5 +68,9 @@ A Wikipedia, por exemplo, funciona sobre um software inteiramente escrito em PHP
 O que distingue o PHP de Javascript é que enquanto nesse últimos os scripts são executados no lado do cliente \(client-side\)no PHP o código é executado no servidor \(server-side\).  
  O cliente recebe os resultados da execução de um script PHP, sem nenhum condição de determinar como é o código fonte.
 
+## PHP e Banco de Dados
+
+Construir uma página dinâmica baseada em bases de dados é simples com PHP, este provê suporte a um grande número de bases de dados: Oracle, Sybase, PostgreSQL, InterBase, MySQL, SQLite, MSSQL etc, podendo abstrair o banco com a biblioteca ADOdb, entre outras.
+
 
 
