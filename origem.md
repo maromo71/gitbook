@@ -47,7 +47,33 @@ Outra novidade é o operador spaceship \(&lt;=&gt;\) que como em outras linguage
 
 3. Retorna \(1\) quando o segundo operando é maior que o primeiro.
 
-Para saber sobre as novas funcionalidades adicionadas, consulte o site http://php.net/docs.php.
+Para saber sobre as novas funcionalidades adicionadas, consulte o site [http://php.net/docs.php](http://php.net/docs.php).
+
+## Versões
+
+Existem versões do PHP disponíveis para os seguintes sistemas operacionais: 
+
+* Windows, 
+* Linux, 
+* Mac OS, 
+* OS/2, 
+* AS/400, 
+* Novell Netware, 
+* RISC OS, IRIX e Solaris. 
+
+A Wikipedia, por exemplo, funciona sobre um software inteiramente escrito em PHP, usando bases de dados MySQL: o MediaWiki.
+
+## PHP e o Javascript
+
+O que distingue o PHP de Javascript é que enquanto nesse últimos os scripts são executados no lado do cliente \(client-side\)no PHP o código é executado no servidor \(server-side\). O cliente recebe os resultados da execução de um script PHP, sem nenhum condição de determinar como é o código fonte. 
+
+
+
+
+
+
+
+
 
 
 
