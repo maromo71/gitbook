@@ -1,4 +1,4 @@
-# Origem e Histórico
+# Apresentação
 
 ---
 
@@ -51,7 +51,7 @@ Para saber sobre as novas funcionalidades adicionadas, consulte o site [http://p
 
 ## Versões
 
-Existem versões do PHP disponíveis para os seguintes sistemas operacionais: 
+Existem versões do PHP disponíveis para os seguintes sistemas operacionais:
 
 * Windows, 
 * Linux, 
@@ -65,15 +65,8 @@ A Wikipedia, por exemplo, funciona sobre um software inteiramente escrito em PHP
 
 ## PHP e o Javascript
 
-O que distingue o PHP de Javascript é que enquanto nesse últimos os scripts são executados no lado do cliente \(client-side\)no PHP o código é executado no servidor \(server-side\). O cliente recebe os resultados da execução de um script PHP, sem nenhum condição de determinar como é o código fonte. 
-
-
-
-
-
-
-
-
+O que distingue o PHP de Javascript é que enquanto nesse últimos os scripts são executados no lado do cliente \(client-side\)no PHP o código é executado no servidor \(server-side\).  
+ O cliente recebe os resultados da execução de um script PHP, sem nenhum condição de determinar como é o código fonte.
 
 
 
