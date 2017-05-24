@@ -9,7 +9,9 @@ Há muitos anos tenho trabalhado com o ensino de linguagens de script para o lad
 
 3. Possui uma sintaxe muito similar a da Linguagem C, linguagem considerada como uma das mais populares mundialmente.
 
-4. Disponilidade de farta documentação no site http://php.net ou em comunidades que discutem a linguagem de scripts PHP.
+4. Disponilidade de farta documentação no site [http://php.net](http://php.net) ou em comunidades que discutem a linguagem de scripts PHP.
+
+5. Uma das características fortes e significtivas do PHP é seu suporte a uma ampla variedade de banco de dados. Escrever uma página web consultando um banco de dados é muito simples usando uma das extensões específicas de um banco de dados \(MariaDb\), ou usando uma camada de abstração como o PDO \(PHP Data Objects\) ou conectar a qualquer banco de dados que suporte o padrão ODBC \(Open Database Connectivity\), entre outras possibilidades.
 
 
 
