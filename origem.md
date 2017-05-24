@@ -41,5 +41,13 @@ function calcularDobro($x) : float
 
 Outra novidade é o operador spaceship \(&lt;=&gt;\) que como em outras linguagens é utilizado para comparação numérica. Na prática o operador &lt;=&gt; retorna um dos 03 valores possíveis:
 
+1. Retorna o valor \(-1\) quando o primeiro operando é menor que o segundo;
+
+2. Retorna o valor \(0\) quando os dois operandos são iguais; e
+
+3. Retorna \(1\) quando o segundo operando é maior que o primeiro.
+
+Para saber sobre as novas funcionalidades adicionadas, consulte o site http://php.net/docs.php.
+
 
 
