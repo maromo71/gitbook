@@ -15,5 +15,3 @@ Há muitos anos tenho trabalhado com o ensino de linguagens de script para o lad
 
 
 
-
-
