@@ -10,6 +10,8 @@ Em 1997 com as adições de Zeev Suraski e Andi Gutmans que reescreveram o parse
 
 No mês de maio de 2000 foi lançada a versão 4. A versão 5 foi lançada no de 2004, a prinicpal mudança foi uma nova API para Orientação a Obejtos providas pelo Zend Engine 2. Em 2015 foi lançada a versão 7 do PHP, atual versão do sistema.
 
+## Algumas novidades na versão 7
+
 Uma entre as várias modificações realizadas é que PHP 7 pemite definir um tipo de retorno de uma função ou método, como exemplos abaixo:
 
 Sintaxa anterior a versão 7:
@@ -70,7 +72,12 @@ O que distingue o PHP de Javascript é que enquanto nesse últimos os scripts s�
 
 ## PHP e Banco de Dados
 
-Construir uma página dinâmica baseada em bases de dados é simples com PHP, este provê suporte a um grande número de bases de dados: Oracle, Sybase, PostgreSQL, InterBase, MySQL, SQLite, MSSQL etc, podendo abstrair o banco com a biblioteca ADOdb, entre outras.
-
-
+Construir uma página dinâmica baseada em bases de dados é simples com PHP, este provê suporte a um grande número de bases de dados:   
+Oracle,   
+Sybase,   
+PostgreSQL,   
+InterBase,   
+MySQL,   
+SQLite,   
+MSSQL etc, podendo abstrair o banco com a biblioteca ADOdb, entre outras.
 
