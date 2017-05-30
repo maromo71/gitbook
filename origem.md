@@ -85,3 +85,7 @@ MSSQL etc, podendo abstrair o banco com a biblioteca ADOdb, entre outras.
 
 Vários protocolos conhecidos são suportados pelo PHP, como por exemplo: IMAP, SNMP, NNTP, POP3, HTTP, LDAP, XML-RPC, SOAP.  É possível abrir sockets e interagir com outros protocolos. Várias bibliotecas de terceiros expandem as funcionalidades suportadas.
 
+Licença
+
+
+
