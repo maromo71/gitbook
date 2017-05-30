@@ -4,7 +4,7 @@ Uma boa opção para a instalação do PHP em uma máquina local para o desenvol
 
 ![](/assets/xampp.png)
 
-Escolha a opção mais recente, no caso da figura a versão 7.1.4 do PHP clicando sobre o botão baixar. 
+Escolha a opção mais recente, no caso da figura a versão 7.1.4 do PHP clicando sobre o botão baixar.
 
 Após efetuar o download execute o arquivo instalador como Administrador, ou seja, clique com o botão direito do mouse sobre o nome do arquivo e selecione Executar como administrador.
 
@@ -14,11 +14,24 @@ Ao abrir o arquivo de setup clique sobre o botão \[Next &gt;\], não é necess�
 
 ![](/assets/inslandoxampp.png)
 
-
-
-Depois de completada a instalação, clique em Finish, deixando a opção de abrir o painel do XAMPP checada.
+Depois de completada a instalação, clique em Finish, deixando a opção de  
+ abrir o painel do XAMPP checada.
 
 ![](/assets/xamppfinalizando.PNG)
+
+
+
+Ao abrir o painel de controle do Xampp, clique apena no botão Start do serviço Apache.
+
+![](/assets/xamppfinalizado.PNG)
+
+O servidor web Apache será responsável por renderizar as páginas \(enviá-las\) ao cliente \(navegador\) quando houver solicitação por parte deste. Se surgir o Alerta de Segurança do Windows você deverá permitir o acesso para que o servidor seja inicializado.
+
+
+
+![](/assets/permitiracesso.PNG)
+
+
 
 
 
