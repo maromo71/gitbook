@@ -1,8 +1,6 @@
 # Summary
 
-* [Introdução](README.md)
-* [Apresentação](origem.md)
+* [1. Introdução](README.md)
+* [2. Apresentação](origem.md)
 * [First Chapter](chapter1.md)
-
-
 
