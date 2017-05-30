@@ -1,4 +1,4 @@
-# PHP 7 - Porque usar ?
+# 1. PHP 7 - Porque usar ?
 
 ---
 
@@ -16,6 +16,4 @@ Há muitos anos tenho trabalhado com o ensino de linguagens de script para o lad
 5. Uma das características fortes e significtivas do PHP é seu suporte a uma ampla variedade de banco de dados. Escrever uma página web consultando um banco de dados é muito simples usando uma das extensões específicas de um banco de dados \(MariaDb\), ou usando uma camada de abstração como o PDO \(PHP Data Objects\) ou conectar a qualquer banco de dados que suporte o padrão ODBC \(Open Database Connectivity\), entre outras possibilidades.
 
 ![](/assets/php7_logo_white.jpg)
-
-
 
