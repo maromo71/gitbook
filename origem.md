@@ -87,7 +87,10 @@ Vários protocolos conhecidos são suportados pelo PHP, como por exemplo: IMAP, 
 
 ## Licença
 
-PHP 7 é distribuídos sob a Licença PHP v3.01, direitos autorais do PHP Group. Trata-se de uma licença Open Source , certificada pela Open Source Initiative \(OSI\). A licença PHP é uma licença estilo BSD que não tem as restrições "copyleft" associadas à GPL. Alguns arquivos foram contribuídos sob outras licenças \(compatíveis\) e carregam requisitos adicionais e informações sobre direitos autorais. Para saber mais sobre a licença, consulte [http://php.net/license](http://php.net/license).
+PHP 7 é distribuídos sob a Licença PHP v3.01, direitos autorais do PHP Group. Trata-se de uma licença Open Source , certificada pela Open Source Initiative \(OSI\). A licença PHP é uma licença estilo BSD que não tem as restrições "copyleft" associadas à GPL. Alguns arquivos foram contribuídos sob outras licenças \(compatíveis\) e carregam requisitos adicionais e informações sobre direitos autorais.   
+Para saber mais sobre a licença, consulte [http://php.net/license](http://php.net/license).
 
+## Arquitetura Cliente - Servidor
 
+O PHP é baseado no servidor, ou seja, quando você executa uma página com script PHP no seu navegador, todo o código é executado no servidor de origem da página, ou seja, o navegador apenas exibe a página processada no formato HTML.
 
