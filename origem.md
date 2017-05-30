@@ -85,7 +85,9 @@ MSSQL etc, podendo abstrair o banco com a biblioteca ADOdb, entre outras.
 
 Vários protocolos conhecidos são suportados pelo PHP, como por exemplo: IMAP, SNMP, NNTP, POP3, HTTP, LDAP, XML-RPC, SOAP.  É possível abrir sockets e interagir com outros protocolos. Várias bibliotecas de terceiros expandem as funcionalidades suportadas.
 
-Licença
+## Licença
+
+PHP 7 é distribuídos sob a Licença PHP v3.01, direitos autorais do PHP Group. Trata-se de uma licença Open Source , certificada pela Open Source Initiative \(OSI\). A licença PHP é uma licença estilo BSD que não tem as restrições "copyleft" associadas à GPL. Alguns arquivos foram contribuídos sob outras licenças \(compatíveis\) e carregam requisitos adicionais e informações sobre direitos autorais. Para saber mais sobre a licença, consulte [http://php.net/license](http://php.net/license).
 
 
 
