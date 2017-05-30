@@ -33,37 +33,39 @@ O servidor web Apache será responsável por renderizar as páginas \(enviá-las
 
 ## 3.2 Instalando no Linux
 
-Caso você seja usuário do Sistema Operacional Linux, use o gerenciador de pacotes da sua distribuição para instalar o PHP. Use o apt-get no Ubuntu, Debian, ou o yum se utilizar Fedora ou Red Hat. Procure os pacotes do PHP e do Apache e faça a instalação.
+Caso você seja usuário do Sistema Operacional Linux, use o gerenciador de pacotes da sua distribuição para instalar o PHP. Use o apt-get no Ubuntu, Debian, ou o yum se utilizar Fedora ou Red Hat. Procure os pacotes do PHP e do Apache e faça a  
+ instalação.
 
 ### Instalar o Apache no Fedora
 
 Pelo terminal, digite os seguintes comandos:
 
-`#`**`su [Enter]`**
+`#su [Enter]`
 
 senha: \[digite sua senha\] \[enter\]
 
-`#`**`yum install httpd [Enter]`**
+`#yum install httpd [Enter]`
 
 Comando para iniciar  
-`#`**`service httpd start`**`[enter]`  
-
+`#service httpd start[enter]`
 
 Depois siga os procedimentos indicados no terminal.
 
 ### Comando para instalar o PHP
 
-`#`**`yum install php`**`[enter]`
+`#yum install php[enter]`
 
 Comando para reiniciar o Apache:
 
-`#`**`service httpd restart`**`[enter]`
-
-
+`#service httpd restart[enter]`
 
 # 3.3 **Testando Apache**
 
 Para testar o apache e verificar se o funcionamento está correto, abra o nagevador web padrão e digite o endereço:`http://localhost`
 
-![](/assets/localhost.PNG)
+## ![](/assets/localhost.PNG)Sobre o Localhost
+
+O endereço acessado \(localhost\) é o endereço local do seu computador. Após realizada a instalação do XAMPP, o servidor web está instalado no computador. Assim foi possível acessá-lo pelo browser.
+
+
 
